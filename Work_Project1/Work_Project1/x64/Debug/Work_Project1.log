@@ -1,3 +1,0 @@
-﻿  1.cpp
-C:\Users\karma\source\repos\Work_Project1\Work_Project1\1.cpp(211,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Work_Project1.vcxproj -> C:\Users\karma\source\repos\Work_Project1\x64\Debug\Work_Project1.exe
