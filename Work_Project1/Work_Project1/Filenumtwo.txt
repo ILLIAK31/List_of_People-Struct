@@ -1,0 +1,1 @@
+|Person 1   |Name : Ivan  |Surname : Kar   |Age : 10   |Pesel : 155   |Gender : F   |
